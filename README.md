@@ -1,13 +1,4 @@
-![
- _                                             
-| |                                            
-| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
-| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
-| | | | (_| | | | | (_| | | | | | | (_| | | | |
-|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-                    __/ |                      
-                   |___/    
-]
+![Hangman Game](https://drive.google.com/file/d/19l_8Z5L4bdgrIN7EYcraYbwoFG8NgVh4/view?usp=sharing)
 
 ## This file is python code which run a **hangman Game**
 
