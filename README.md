@@ -1,4 +1,4 @@
-![Hangman Game](https://drive.google.com/file/d/19l_8Z5L4bdgrIN7EYcraYbwoFG8NgVh4/view?usp=sharing)
+![Hangman Game](https://github.com/ravimalvia/hangman/blob/master/hangman.JPG)
 
 ## This file is python code which run a **hangman Game**
 
